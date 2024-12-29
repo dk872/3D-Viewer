@@ -2,7 +2,7 @@
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
-The **3D-Viewer** is a robust and interactive Android application designed for viewing, manipulating, and customizing 3D models. The application leverages the *LibGDX* framework to offer seamless rendering and control over various 3D shapes like cubes, spheres, cylinders, and cones. It provides users with an intuitive interface to explore 3D objects, rotate them, resize them, and even change their colors or textures, enabling a fully personalized experience.
+The **My3DViewer** is a robust and interactive Android application designed for viewing, manipulating, and customizing 3D models. The application leverages the *LibGDX* framework to offer seamless rendering and control over various 3D shapes like cubes, spheres, cylinders, and cones. It provides users with an intuitive interface to explore 3D objects, rotate them, resize them, and even change their colors or textures, enabling a fully personalized experience.
 
 A standout feature of this application is the ability to upload custom textures from the device, making it ideal for professionals and hobbyists who wish to preview how different textures fit on their models. The real-time rotation and scaling controls allow users to visualize their designs from every angle, enhancing usability in industries such as architecture, game development, and product design.
 
